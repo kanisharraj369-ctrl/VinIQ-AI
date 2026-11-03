@@ -1,0 +1,6 @@
+{
+  "name": "Vyniq Education - AI Neuro-Tutor & Academic Evaluator",
+  "description": "Chief Academic Evaluator & Master AI Neuro-Tutor for CBSE Class 10 & 12 by Vyniq Technologies. Accurate NCERT-grounded teaching, strict step-wise evaluation, and adaptive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
